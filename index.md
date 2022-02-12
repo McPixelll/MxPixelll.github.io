@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="de">
   <head>
     <title>Informatik als Schulfach</title>
